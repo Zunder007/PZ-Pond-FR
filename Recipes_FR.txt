@@ -1,4 +1,4 @@
 Recipe_FR = {
  Recipe_Build_Pond = "Construire un étang",
- Recipe_Build_Japanese_Pond "Construire un étang japonais",
+ Recipe_Build_Japanese_Pond = "Construire un étang japonais",
 }
