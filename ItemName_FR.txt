@@ -1,0 +1,5 @@
+ItemName_FR = {
+	ItemName_Base.PondsConstructionMag = "Le magazine des constructions d’étangs",
+	ItemName_Base.pond = "Matériaux de bassin",
+	ItemName_Base.pond2 = "Matériaux de bassin japonais",
+}
